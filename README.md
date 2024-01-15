@@ -40,21 +40,26 @@ Upon completion, participants receive feedback on their solutions, including ins
 
 Enhance participants' ability to analyze and comprehend complex code structures.
 Encourage critical thinking in dissecting and understanding the inner workings of software.
+
 Security Awareness:
 
 Foster a security-oriented mindset by identifying and addressing vulnerabilities.
 Train individuals to think like attackers and understand potential security risks.
+
 Debugging Proficiency:
 
 Improve debugging skills to identify and rectify issues within a binary or source code.
 Utilize debugging tools effectively for problem-solving.
+
 Knowledge of Assembly Language:
 
 Reinforce or develop proficiency in reading and understanding assembly language.
 Familiarize participants with common assembly instructions and their implications.
+
 Problem-Solving:
 
 Promote creative problem-solving by presenting participants with puzzles and challenges that require unconventional thinking.
+
 Understanding Code Obfuscation:
 
 Train participants to navigate through obfuscated code and identify patterns.
